@@ -1,0 +1,6 @@
+framework module Pods_Unsplash_task_app {
+  umbrella header "Pods-Unsplash task app-umbrella.h"
+
+  export *
+  module * { export * }
+}
