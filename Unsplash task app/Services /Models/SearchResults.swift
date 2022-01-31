@@ -23,6 +23,6 @@ struct UnsplashPhoto: Decodable {
         case small
         case thumb
     }
-    
+    //
 }
 

@@ -20,7 +20,7 @@ class NetworkService {
         let task = createDataTask(from: request, completion: completion)
         task.resume()
         
-        
+        //
         
         
     }
